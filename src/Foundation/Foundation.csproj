@@ -1908,6 +1908,7 @@
     <Content Include="Views\VirtualTemplates\Buttons\MakeVirtual.cshtml" />
     <Content Include="Views\VirtualTemplates\Buttons\Edit.cshtml" />
     <Content Include="Views\VirtualTemplates\Buttons\Compare.cshtml" />
+    <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
