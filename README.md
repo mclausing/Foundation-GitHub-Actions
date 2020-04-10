@@ -10,6 +10,7 @@ For documentation on Episerver Foundation, see [the documentation repository](ht
 You can request a demo of the project by one of our Episerver experts on [Get a demo](https://www.episerver.com/get-a-demo/).
 
 [![Build status](https://dev.azure.com/episerver-foundation/Foundation/_apis/build/status/Foundation-Release)](https://dev.azure.com/episerver-foundation/Foundation/_build/latest?definitionId=1)
+![CI](https://github.com/mclausing/Foundation-GitHub-Actions/workflows/CI/badge.svg?branch=develop)
 [![License](http://img.shields.io/:license-apache-blue.svg?style=flat-square)](http://www.apache.org/licenses/LICENSE-2.0.html)
 
 ---
